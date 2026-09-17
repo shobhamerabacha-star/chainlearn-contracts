@@ -3,3 +3,5 @@ test_snapshots/
 .mimo/
 *.mimo
 mimo/
+config.bat
+node_modules
